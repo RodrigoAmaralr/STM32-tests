@@ -1,9 +1,0 @@
-/mnt/HD1TB/GoogleDrive/arq/elt/Microcontrolador/STM32/00 - Embedded Systems Bare-Metal Programming Ground Up - STM32/Projects/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
-../Src/uart.c:26:5:__io_putchar	16	static
-../Src/uart.c:31:6:uart2_rxtx_init	8	static
-../Src/uart.c:70:6:uart2_rx_interrupt_init	8	static
-../Src/uart.c:116:6:uart2_tx_init	8	static
-../Src/uart.c:145:6:uart2_read	4	static
-../Src/uart.c:154:6:uart2_write	16	static
-../Src/uart.c:161:13:uart_set_baudrate	24	static
-../Src/uart.c:166:17:compute_uart_bd	16	static

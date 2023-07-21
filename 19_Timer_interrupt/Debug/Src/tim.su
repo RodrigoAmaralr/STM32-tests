@@ -1,3 +1,0 @@
-/mnt/HD1TB/GoogleDrive/arq/elt/Microcontrolador/STM32/00 - Embedded Systems Bare-Metal Programming Ground Up - STM32/Projects/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
-../Src/tim.c:9:6:tim2_1hz_init	4	static
-../Src/tim.c:27:6:tim2_1hz_Interrupt_init	8	static
